@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+{% if site.categories[page.category] %}
+	{% for post in site.categories[page.category] %}
+	<div class="post-preview">
+		<a href="{{ post.url | prepend: site.baseurl }}">
+			<h2 class="post-title">
+				{{ post.title }}
+			</h2>
+		</a>
+		<a href="/category/{{ post.category }}">
+			<span class="title-category {{ post.category }}">{{ post.category }}</span>
+		</a>
+		<span class="post-meta">
+			Posted on {{ post.date | date: '%Y' }}-{{ post.date | date: '%m' }}-{{ post.date | date: '%d' }}
+		</span>
+		{{ post.excerpt }}
+		<a href="{{ post.url | prepend: site.baseurl }}" class="to_post">
+			<span>Read more</span>
+			<i class="fa fa-chevron-circle-right"></i>
+		</a>
+	</div>
+	<hr>
+	{% endfor %}
+{% else %}
+	<p>No post in this category.</p>
+{% endif %}

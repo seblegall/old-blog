@@ -1,0 +1,21 @@
+# Site settings
+title: Blog Note
+header-img: img/photo-header.jpg
+email: seb@le-gall.net
+description: "Sébastien Le Gall Blog"
+logo: /img/kilix-logo-blog.png
+baseurl: ""
+url: "http://le-gall.bzh"
+
+github_username:  seblegall
+twitter_username: seb_legall
+linkedin_username: sebastienlegall92
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+excerpt_separator: <!--more-->
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: ["jekyll-paginate"]
