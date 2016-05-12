@@ -6,3 +6,5 @@
   name: PhpUnit
 - slug: agility
   name: Agility
+- slug: docker
+  name: Docker
