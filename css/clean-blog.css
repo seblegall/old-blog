@@ -53,7 +53,7 @@ hr.small {
   }
 }
 .navbar-custom {
-  background: #2c313f;
+  background: #202529;
   border-bottom: 0;
   margin: 0;
   width: 100%;
@@ -329,10 +329,10 @@ hr.small {
   border-bottom: 21px solid transparent;
   border-left: 21px solid white;
 }
-.post-preview .title-category.frontend {
+.post-preview .title-category.docker {
   background-color: #009884;
 }
-.post-preview .title-category.frontend:hover {
+.post-preview .title-category.docker:hover {
   background-color: #006558;
 }
 .post-preview .title-category.php {
