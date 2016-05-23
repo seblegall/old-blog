@@ -8,3 +8,7 @@
   name: Agility
 - slug: docker
   name: Docker
+- slug: emacs
+  name: Emacs
+- slug: vi
+  name: Vi
