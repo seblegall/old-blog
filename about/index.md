@@ -10,6 +10,8 @@ Hi ! I'm a french software engineer working at Kilix, a great web agency. I feel
 
 I also manage some projects development with Agile methods based on multiple framework such as SCRUM, Kanban and eXtrem Programming.
 
+![Sébastien Le Gall](https://lh3.googleusercontent.com/bH-s35VkGuy4V-osoYttoE0MloGhrJ7UWwBXA0iYSVrzkreJBHfrbbvrODVrPvtUWWefiyhEhwxcH_OCl6b2lIkOVT8X187k4Tw_CaqNSZxi2MuktrROA3tw2iP7dIOi3hrJOh8nnATLK0mXWSESpFWlPnXQUrFxu7CBXicg60Nu-7IKKiuQ_wIsx6BoqE186Ea2884YS0bSkQC2xgphZRZPab43GZ_VlKXx6S_DF3qfYSrubAgzx4te1oNmvCpgHJrVqSPdm1ErxbEC8pzEjoUPstrIA_EQSSAV-aljn_j5I-boM4Zy42RlcxXWStIFtFIRQeLMxYW9R6G9gzUU9LPHm7qbYQrpn_L8dH9NBm56qljh6YQmKn8MXGXCPcDnGG9nc5ef_DJHB8xqgJPc68Ds2aDQ3NELGoQ1-oZxvs9ytipB085M1mwNWCI1f654k6mwCj9DLUtP5xM-6K68BjHSCHryKthMFMROLb8FbTckmrCzpARjxHxV4NiB1f3K8v7lJDw27SBMG6EV1Qiy5aRt4wcGCNFX4fCqIjDxCKO0xngELegzG3ZvSBfLEcBcDZN7csbR8WgLSRa6HQNt_DuRkbJf_Qk=w584-h603-no)
+
 Here are some of the tools I like to use :
 
 * Docker
