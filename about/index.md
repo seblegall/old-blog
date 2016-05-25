@@ -6,7 +6,7 @@ date:   2016-05-11 14:49:34
 author: Sébastien Le Gall
 ---
 
-Hi ! I'm a french software engineer working at Kilix, a great web agency. I feel passionate by Symfony 3 and PHP7 developement.
+Hi ! I'm a french software engineer working at Kilix, a great web agency. I feel passionate by Symfony 3 and PHP7 development.
 
 I also manage some projects development with Agile methods based on multiple framework such as SCRUM, Kanban and eXtrem Programming.
 
