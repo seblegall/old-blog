@@ -12,3 +12,5 @@
   name: Emacs
 - slug: vi
   name: Vi
+- slug: symfony
+  name : Symfony
